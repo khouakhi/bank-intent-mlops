@@ -1,0 +1,5 @@
+{
+  "min_accuracy": 0.85,
+  "min_macro_f1": 0.85,
+  "max_latency_ms": 300
+}
